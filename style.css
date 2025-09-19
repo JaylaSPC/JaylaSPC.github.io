@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.section {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+
+.section h2,
+.section h3 {
+    text-align: center;
+}
+
+.section p,
+.section ul {
+    text-align: left;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.section ul {
+    list-style-position: inside;
+}
+
+.section img {
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 5%;
+}
+
+.section figcaption {
+    margin-top: 10px;
+    text-align: center;
+    font-size: smaller;
+    font-style: italic;
+}
