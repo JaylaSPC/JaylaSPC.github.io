@@ -43,3 +43,7 @@ h1 {
     font-size: smaller;
     font-style: italic;
 }
+
+.note {
+    background-color: yellow;
+}
